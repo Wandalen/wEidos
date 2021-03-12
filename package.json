@@ -1,6 +1,6 @@
 {
   "name": "weidos",
-  "version": "0.2.57",
+  "version": "0.2.58",
   "description": "___",
   "author": "Kostiantyn Wandalen <wanalen@01.school>",
   "license": "MIT",
@@ -21,11 +21,11 @@
     "url": "https://github.com/Wandalen/wEidos/issues"
   },
   "dependencies": {
-    "wTools": "alpha"
+    "wTools": "gamma"
   },
   "devDependencies": {
     "eslint": "7.1.0",
-    "wTesting": "alpha",
+    "wTesting": "gamma",
     "weidos": "file:."
   },
   "keywords": [
