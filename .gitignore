@@ -1,9 +1,14 @@
 
+!/.github
+!/.circleci
+!/.*
+
 /_*
 /build
 /builder
 /binding
 /node_modules
+/.module
 /package-lock.json
 
 -*
